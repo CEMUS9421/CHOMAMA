@@ -1,0 +1,45 @@
+---
+name: Mustafa Bezmawi
+imt: mbezmawi
+gruppe: 12
+woche: 01
+gesamtarbeitszeit: 120
+---
+
+<!--
+Jeder Eintrag stellt eine gesonderte Tätigkeit dar und ist als (Listen-)Stichpunkt unter der korrekten Kategorie einzuordnen.
+Dieser ist mit dem Datum (im ISO Format) und der Dauer (in Minuten) zu versehen (als sub-Listenstichpunkt).
+Sollte sich die Arbeit an diesem Eintrag über mehrere Tage erstrecken, so können mehrere Unterpunkte genutzt werden.
+Zum Beispiel:
+
+## Dokumentation
+  - 24-04-2026
+
+  16:00 - 18:00  Tutorium + Rollenverteilung
+
+Die Summe aller Minuten wird oben unter `gesamtarbeitszeit` im selben Format eingetragen.
+
+Die Datei wird wie folgt benannt: `stundenzettel_<woche (mit führender 0, falls einstellig>_<ZIM/IMT Kürzel>.md`,
+also zum Beispiel: `stundenzettel_01_maxm.md` oder `stundenzettel_10_maxm.md`.
+-->
+
+## Werkzeuge
+
+## Sprint Planning
+
+## Backlog
+
+## Implementierung
+
+## Dokumentation
+
+## Projektmanagement
+
+## Qualitätsmanagement
+
+## Messe
+
+## Support
+
+## Präsentation
+
