@@ -1,2 +1,0 @@
-# CHOMAMA
-for TESTING
